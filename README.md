@@ -1,2 +1,2 @@
 # ejercicio-repositorio-perotti
-Práctica con ejercicios
+Primer linea en el repositorio para electronica digital II
